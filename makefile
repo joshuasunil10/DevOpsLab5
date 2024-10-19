@@ -1,2 +1,2 @@
 all:
-	gcc helloworld.c -o helloworld
+	gcc hello.c -o hello
